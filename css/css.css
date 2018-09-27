@@ -42,7 +42,7 @@ body {
 	font: 12px/1.8 Microsoft YaHei, simsong;
 	height: 100%;
 	overflow: hidden;
-	background: url(../images/moon.jpg) repeat center top;
+	background: url(../images/background.jpg) repeat center top;
 }
 .bgloader {
 	background: url(../images/loading.gif) no-repeat #fff center;
