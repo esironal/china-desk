@@ -1,12 +1,12 @@
 ﻿//id,iconName,iconUrl,url,width,height
 var shortcut = [
-[0,"物流查询","images/i/icon31.png","http://www.zi-han.net/case/56/",700,500],
-[1,"美图秀秀","images/i/icon32.png","http://www.zi-han.net/case/meitu/index.html",1000,600],
-[2,"css生成器","images/i/icon33.png","http://www.zi-han.net/css3/",1100,600],
-[3,"uEditor","images/i/icon34.png","http://www.zi-han.net/case/ueditor/",1015,500],
-[4,"表单美化","images/i/icon35.png","http://www.zi-han.net/case/plus/form",740,390],
-[5,"ckplayer","images/i/icon36.png","http://www.zi-han.net/case/plus/ckplayer",614,476],
-[6,"EasyUI中文","images/i/icon37.png","http://www.zi-han.net/case/easyui",1280,600],
-[7,"百度地图","images/i/icon38.png","http://www.zi-han.net/case/map",800,515],
-[8,"CFUpload","images/i/icon39.png","http://www.zi-han.net/case/CFUpload",700,515]
+[0,"NPM Search","images/my-app-icons/npm-logo-cube.png","https://npms.io/",750,330],
+[1,"System Designer","images/my-app-icons/icon-android.png","https://esironal.github.io/System-Designer-Static/",800,600],
+[2,"esironal","images/i/icon11.png","https://esironal.github.io/",800,600],
+[3,"CodeMagic","https://esironal.github.io/apps/codemagic/apple-touch-icon-precomposed.png","https://esironal.github.io/apps/codemagic/",800,500],
+[4,"Metro UI","images/i/icon35.png","https://metroui.org.ua/containers.html",740,390],
+[5,"Gist Browser","images/my-app-icons/gist.png","https://esironal.github.io/apps/GistBrowser/#/",750,330],
+[6,"Photon Demo","images/i/icon21.png","https://esironal.github.io/photon/docs/demo-app.html",750,330],
+[7,"JSON Editor","images/my-app-icons/code1.png","https://jsoneditoronline.org/",800,515],
+[8,"Admin Notebook","images/i/icon34.png","http://esironal.oschina.io/Notebook-AdminPanel/fullcalendar.html",770,400]
 ];
