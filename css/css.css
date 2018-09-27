@@ -575,9 +575,9 @@ body {
 	_background: url("../images/taskico.gif") no-repeat center;
 }
 .startMenuBtn:hover {
-	-moz-transform: rotate(-20deg);
-	-webkit-transform: rotate(-20deg);
-	-o-transform: rotate(-20deg);
+	-moz-transform: scale(1.2);
+	-webkit-transform: scale(1.2);
+	-o-transform: scale(1.2);
 }
 .start-menu li.sm1 a {
 	background: url("../images/sm1.png") no-repeat 5px center;
