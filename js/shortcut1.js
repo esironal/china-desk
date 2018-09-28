@@ -8,5 +8,5 @@ var shortcut = [
 [5,"CodeSandBox","images/my-app-icons/codesandbox.png","https://codesandbox.io",750,330],
 [6,"PHP Fiddle","images/my-app-icons/seo-web-code-icon.png","https://phpfiddle.org/",750,330],
 [7,"Encode-Decode","images/my-app-icons/encode.png","apps/encode-decode.html",800,320],
-[8,"Encode-Decode","https://raw.githubusercontent.com/mickael-kerjean/nuage/master/.assets/img/logo.png","https://nuage.kerjean.me",800,320]
+[8,"DuckDuckGo","https://duckduckgo.com/assets/icons/meta/DDG-icon_256x256.png","https://cors-anywhere.herokuapp.com/https://duckduckgo.com/",800,320]
 ];
