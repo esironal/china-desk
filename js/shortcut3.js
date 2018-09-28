@@ -8,5 +8,5 @@ var shortcut = [
 [5,"Gist Browser","images/my-app-icons/gist.png","https://esironal.github.io/apps/GistBrowser/#/",750,330],
 [6,"Photon Demo","images/i/icon21.png","https://esironal.github.io/photon/docs/demo-app.html",750,330],
 [7,"JSON Editor","images/my-app-icons/code1.png","https://jsoneditoronline.org/",800,515],
-[8,"Admin Notebook","images/i/icon34.png","http://esironal.oschina.io/Notebook-AdminPanel/fullcalendar.html",770,400]
+[8,"Admin Notebook","images/i/icon34.png","https://esironal.oschina.io/Notebook-AdminPanel/fullcalendar.html",800,400]
 ];
